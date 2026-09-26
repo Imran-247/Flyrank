@@ -2,6 +2,10 @@
 
 FlyRank is my capstone project for the AI-assisted development track.
 
+## Overview
+
+FlyRank is a project focused on building a ranking or recommendation workflow using modern web tooling and AI-assisted development practices. The goal is to create a practical, maintainable application while learning how to collaborate effectively with GitHub Copilot throughout the development process.
+
 ## Tech Stack
 
 - Node.js (LTS)
