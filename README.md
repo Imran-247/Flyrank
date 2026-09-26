@@ -1,23 +1,27 @@
-# My Capstone Project
+# FlyRank
 
-## Overview
-[My project description goes here]
+FlyRank is my capstone project for the AI-assisted development track.
 
 ## Tech Stack
-* React
-* Node.js
-* PostgreSQL
+
+- Node.js (LTS)
+- JavaScript / TypeScript
+- Git
+- GitHub
+- GitHub Copilot
+
+## Project Status
+
+In development.
 
 ## Getting Started
-Instructions for installing and running the project will go here.
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+Setup and installation instructions will be added as the project develops.
 
-## Project Structure
-A brief explanation of the main folders and files.
+## Development
+
+This project is developed using AI-assisted development practices with GitHub Copilot.
 
 ## License
-This project is licensed under the MIT License.
+
+This project is licensed under the terms included in the `LICENSE` file.
